@@ -24,8 +24,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/elastic/crd-ref-docs/config"
-	"github.com/elastic/crd-ref-docs/types"
+	"github.com/simonrw/crd-ref-docs/config"
+	"github.com/simonrw/crd-ref-docs/types"
 	"go.uber.org/zap"
 )
 

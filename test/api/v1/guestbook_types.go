@@ -18,7 +18,7 @@
 package v1
 
 import (
-	"github.com/elastic/crd-ref-docs/api/common"
+	"github.com/simonrw/crd-ref-docs/api/common"
 
 	apiextensionsv1 "k8s.io/apiextensions-apiserver/pkg/apis/apiextensions/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

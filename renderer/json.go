@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/elastic/crd-ref-docs/config"
-	"github.com/elastic/crd-ref-docs/types"
+	"github.com/simonrw/crd-ref-docs/config"
+	"github.com/simonrw/crd-ref-docs/types"
 )
 
 type JsonRenderer struct {
